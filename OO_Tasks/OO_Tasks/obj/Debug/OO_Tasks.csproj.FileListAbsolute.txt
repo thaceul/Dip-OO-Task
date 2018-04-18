@@ -1,0 +1,6 @@
+E:\Software Diploma\Semester 1\ICTGRP418\OO_Tasks\OO_Tasks\bin\Debug\OO_Tasks.dll
+E:\Software Diploma\Semester 1\ICTGRP418\OO_Tasks\OO_Tasks\bin\Debug\OO_Tasks.pdb
+E:\Software Diploma\Semester 1\ICTGRP418\OO_Tasks\OO_Tasks\obj\Debug\OO_Tasks.csproj.CoreCompileInputs.cache
+E:\Software Diploma\Semester 1\ICTGRP418\OO_Tasks\OO_Tasks\obj\Debug\OO_Tasks.dll
+E:\Software Diploma\Semester 1\ICTGRP418\OO_Tasks\OO_Tasks\obj\Debug\OO_Tasks.pdb
+E:\Software Diploma\Semester 1\ICTGRP418\OO_Tasks\OO_Tasks\obj\Debug\OO_Tasks.csprojResolveAssemblyReference.cache

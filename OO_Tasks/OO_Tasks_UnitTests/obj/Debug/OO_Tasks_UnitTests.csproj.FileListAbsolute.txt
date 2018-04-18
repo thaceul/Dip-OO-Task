@@ -1,0 +1,15 @@
+E:\Software Diploma\Semester 1\ICTGRP418\OO_Tasks\OO_Tasks_UnitTests\obj\Debug\OO_Tasks_UnitTests.csprojResolveAssemblyReference.cache
+E:\Software Diploma\Semester 1\ICTGRP418\OO_Tasks\OO_Tasks_UnitTests\obj\Debug\OO_Tasks_UnitTests.csproj.CoreCompileInputs.cache
+E:\Software Diploma\Semester 1\ICTGRP418\OO_Tasks\OO_Tasks_UnitTests\bin\Debug\OO_Tasks_UnitTests.dll
+E:\Software Diploma\Semester 1\ICTGRP418\OO_Tasks\OO_Tasks_UnitTests\bin\Debug\OO_Tasks_UnitTests.pdb
+E:\Software Diploma\Semester 1\ICTGRP418\OO_Tasks\OO_Tasks_UnitTests\bin\Debug\nunit.framework.dll
+E:\Software Diploma\Semester 1\ICTGRP418\OO_Tasks\OO_Tasks_UnitTests\bin\Debug\OO_Tasks.dll
+E:\Software Diploma\Semester 1\ICTGRP418\OO_Tasks\OO_Tasks_UnitTests\bin\Debug\OO_Tasks.pdb
+E:\Software Diploma\Semester 1\ICTGRP418\OO_Tasks\OO_Tasks_UnitTests\bin\Debug\nunit.framework.xml
+E:\Software Diploma\Semester 1\ICTGRP418\OO_Tasks\OO_Tasks_UnitTests\obj\Debug\OO_Tasks_UnitTests.dll
+E:\Software Diploma\Semester 1\ICTGRP418\OO_Tasks\OO_Tasks_UnitTests\obj\Debug\OO_Tasks_UnitTests.pdb
+E:\Software Diploma\Semester 1\ICTGRP418\OO_Tasks\OO_Tasks_UnitTests\bin\Debug\NUnit3.TestAdapter.dll
+E:\Software Diploma\Semester 1\ICTGRP418\OO_Tasks\OO_Tasks_UnitTests\bin\Debug\NUnit3.TestAdapter.pdb
+E:\Software Diploma\Semester 1\ICTGRP418\OO_Tasks\OO_Tasks_UnitTests\bin\Debug\nunit.engine.dll
+E:\Software Diploma\Semester 1\ICTGRP418\OO_Tasks\OO_Tasks_UnitTests\bin\Debug\nunit.engine.api.dll
+E:\Software Diploma\Semester 1\ICTGRP418\OO_Tasks\OO_Tasks_UnitTests\bin\Debug\Mono.Cecil.dll
